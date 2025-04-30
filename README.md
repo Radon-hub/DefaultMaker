@@ -2,6 +2,7 @@
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![](https://jitpack.io/v/Radon-hub/DefaultMaker.svg)](https://jitpack.io/#Radon-hub/DefaultMaker)
 
 ### Kotlin's Smart Default Generator 🚀
 **Generate default instances of any Kotlin class with ease!** Perfect for testing, prototyping, and reducing boilerplate code.
